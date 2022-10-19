@@ -11,6 +11,7 @@ Submit a pull request :D
 Credits
 Dan Singer (Lightning)
 Charlie Renaud (Extravagant)
+Monika (Lilmonix3)
 
 License
 MIT
